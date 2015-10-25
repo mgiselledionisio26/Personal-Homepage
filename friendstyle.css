@@ -1,0 +1,79 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	background-image: url(Myselfgallery/bg7.jpg);
+	background-attachment: fixed;
+}
+a{
+	font-family: "Adobe Hebrew";
+	font-color: #333;
+	margin-left: 20px;	
+}
+a:link {
+	color: #CCC;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #036;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FC0;
+}
+a:active {
+	text-decoration: none;
+	color: #D6D6D6;
+}
+body,td,th {
+	color: #CCC;
+}
+
+p{
+	text-align: justify;
+	margin-right: 20px;
+	margin-left: 20px;
+	color: #000;
+	font-family: "Adobe Hebrew";
+	font-size: 20px;
+}
+td {
+	font-family: "Adobe Hebrew";
+	font-size: 20px;
+}
+
+h1 {
+	font-family: "Edwardian Script ITC";
+	font-size: 60px;
+	text-align: center;
+	margin-right: 45px;
+	color: #FFF;
+}
+div{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+}
+div:pictures1{
+	margin-top: 5px;
+}
+.table1{
+	background: rgba(255,255,0,0.4);
+}
+.table2{
+	background: rgba(255,255,0,0.4);
+}
+.photobanner img:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    cursor: pointer;
+ 
+    -webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+}
